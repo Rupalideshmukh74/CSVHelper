@@ -1,0 +1,5 @@
+﻿name ,email,phonw,country
+Rajiv Kumar Singh,rajeevs@example.com,+91-999999999,India
+sachin Tendulkar,sachin@example.com,+91-999999998,India
+Barak Obama,barak@example.com,+1-1111111111,United State
+Donalld Trump,donald@example.com,+1-22222222,United State

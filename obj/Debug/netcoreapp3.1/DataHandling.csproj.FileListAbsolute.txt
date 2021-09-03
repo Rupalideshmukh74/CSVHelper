@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\DataHandling\bin\Debug\netcoreapp3.1\DataHandling.exe
+C:\Users\admin\source\repos\DataHandling\bin\Debug\netcoreapp3.1\DataHandling.deps.json
+C:\Users\admin\source\repos\DataHandling\bin\Debug\netcoreapp3.1\DataHandling.runtimeconfig.json
+C:\Users\admin\source\repos\DataHandling\bin\Debug\netcoreapp3.1\DataHandling.runtimeconfig.dev.json
+C:\Users\admin\source\repos\DataHandling\bin\Debug\netcoreapp3.1\DataHandling.dll
+C:\Users\admin\source\repos\DataHandling\bin\Debug\netcoreapp3.1\DataHandling.pdb
+C:\Users\admin\source\repos\DataHandling\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\admin\source\repos\DataHandling\obj\Debug\netcoreapp3.1\DataHandling.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DataHandling\obj\Debug\netcoreapp3.1\DataHandling.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DataHandling\obj\Debug\netcoreapp3.1\DataHandling.AssemblyInfo.cs
+C:\Users\admin\source\repos\DataHandling\obj\Debug\netcoreapp3.1\DataHandling.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DataHandling\obj\Debug\netcoreapp3.1\DataHandling.csproj.CopyComplete
+C:\Users\admin\source\repos\DataHandling\obj\Debug\netcoreapp3.1\DataHandling.dll
+C:\Users\admin\source\repos\DataHandling\obj\Debug\netcoreapp3.1\DataHandling.pdb
+C:\Users\admin\source\repos\DataHandling\obj\Debug\netcoreapp3.1\DataHandling.genruntimeconfig.cache

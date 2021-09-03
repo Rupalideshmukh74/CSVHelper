@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OH9B6htfMNH89wqlM8VmxzPCZldnKEI2dpp8rGhkRgx9IOJ6fX7vqfJB50OKdyPNMwrS7xNkTQ4Zhh3x9rpdDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\DataHandling\\DataHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
